@@ -37,14 +37,14 @@ After a brief discussion, we set out to answer the question: is FOT really the m
 
 ### Sources, Spreadsheets, and Shit 
 #### Normalized Data 
-[Freshman On Track](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_fot_schoollevel_2022-1.csv) 
-[Graduation and Dropouts](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_cohortgraduationdropoutadjusted_schoollevel_2011to2019+(1).csv) 
-[College Enrollment and Persistence](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_collenrollpersist_schoollevel_20222_CLEAN_3.csv) 
+* [Freshman On Track](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_fot_schoollevel_2022-1.csv) 
+* [Graduation and Dropouts](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_cohortgraduationdropoutadjusted_schoollevel_2011to2019+(1).csv) 
+* [College Enrollment and Persistence](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_collenrollpersist_schoollevel_20222_CLEAN_3.csv) 
 
 #### Sources 
-[Chicago Public Schools Distric Data Metrics](https://www.cps.edu/about/district-data/metrics/)
-[Chicago Public Schools Assessment Reports](https://www.cps.edu/about/district-data/metrics/assessment-reports/) 
-[Data Insights (To&Through, UChicago)](https://toandthrough.uchicago.edu/sites/default/files/uploads/documents/Data%20Insights%202020%20v5_0.pdf)
+* [Chicago Public Schools Distric Data Metrics](https://www.cps.edu/about/district-data/metrics/)
+* [Chicago Public Schools Assessment Reports](https://www.cps.edu/about/district-data/metrics/assessment-reports/) 
+* [Data Insights (To&Through, UChicago)](https://toandthrough.uchicago.edu/sites/default/files/uploads/documents/Data%20Insights%202020%20v5_0.pdf)
 
 
 

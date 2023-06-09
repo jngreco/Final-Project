@@ -25,6 +25,9 @@ Upon closer examination of the [joint report](https://toandthrough.uchicago.edu/
 ### Final Decisions 
 After a brief discussion, we set out to answer the question: is FOT really the most accurate predictor of high school graducation? Our goal became to use the insights previously gleamed form our initial data gathering and normalization; this time, however, we took a look at the percentage of freshman considered OnTrack and the overall graduation rates of each school in our dataset. Then, using multiple predictive tests, compare our models to existing graducation and college enrollment/persistence data. 
 
+## Findings 
+uhhhhh
+
 ## Limitations 
 * Aggregate data 
 * Time constraints 

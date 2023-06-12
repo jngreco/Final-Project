@@ -6,8 +6,8 @@
 * **College Enrollment Rate**: measures the percentage of students graduating from a school who in the previous year who enrolled in a 2-year or 4-year college in the fall after graduation from high school
 * **College Persistence Rate**: measures the percentage of students counted in the college enrollment rate that remained enrolled in college the following fall
 
-## Abstract 
-Whatever we end up finding lol 
+## Overview
+Using publicly available data form Chicago Public Schools, we set out to analyze the claim from UIC and the To&Through program that how a student performs during their freshman year is the most accurate predictor of whether or not a student will  graduate. Using predictive modeling, clustering, and PCA analysis, we discovered that this claim is, by and large, true. However, issues with data availability, aggregation, and consistency prevented us from exploring our initial question: can we predict if a student will be “On Track” in their freshman year based on 8th grade testing scores and attendance data? 
 
 ## Project Summary 
 A [joint report](https://toandthrough.uchicago.edu/sites/default/files/uploads/documents/Data%20Insights%202020%20v5_0.pdf) published by the University of Illinois (UIC), UChicago Consortium on School Research, and the To&Through Project preports that how a 9th grade high school student performs during their freshman year is the most reliable way to predict future success for that student. In other words, whether or not a high school freshman meets the criteria to be considered "OnTrack" is `"more predictive of a students odds of graduating"` than all other factors combined--- including `"gender, race, socioeconimic status, 8th grade test scores, mobility prior to High School, and Overage for grade."`The report also claimed that freshman who are OnTrack graduate at a rate of `87%` compared to "off-track" students who graduate at a rate of only `30%`.

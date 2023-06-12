@@ -28,7 +28,11 @@ Upon closer examination of the [joint report](https://toandthrough.uchicago.edu/
 After a brief discussion, we set out to answer the question: is FOT really the most accurate predictor of high school graducation? Our goal became to use the insights previously gleamed form our initial data gathering and normalization; this time, however, we took a look at the percentage of freshman considered OnTrack and the overall graduation rates of each school in our dataset. Then, using multiple predictive tests, compare our models to existing graducation and college enrollment/persistence data. 
 
 ## Findings 
-uhhhhh
+### Logistic Regression Model
+
+### PCA and Clustering 
+
+### Linear Regression
 
 ## Limitations 
 * Aggregate data 
@@ -39,6 +43,18 @@ uhhhhh
 * only used data from 2015-2019 due to a change in how FOT status was calculated pre-2015. Post-2019 data excluded due to pandemic. 
 
 ## Future Direcions 
+### Issues with data
+* Current data only shows information by school instead of by student
+  * This is to avoid tracking specific students i.e. Male student of Hispanic descent transferred from (low-pop.) school A to (low-pop.) school B 
+* How can we anonymize student data?
+### Anonymizing student data
+* Publish data from large population schools where a reasonable degree of anonymity can be established within the student body
+* Publish data after a certain period of time following graduation (ex. 5-10 years past)
+
+Having individualized data will allow us to track progress by student instead of by school. With this data, we could potentially find predictors for whether a student will be in track or not by their freshman year. According to UofC:
+``` “On-track students are more than three and one-half times more likely to graduate from high school in four years than off-track students” ``` 
+Finding these students before their freshman year has the potential to set them on track before it is already too late.
+
 
 ### Sources, Spreadsheets, References 
 #### Normalized Data 

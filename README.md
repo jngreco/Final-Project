@@ -33,6 +33,15 @@ After a brief discussion, we set out to answer the question: is FOT really the m
 ### PCA and Clustering 
 
 ### Linear Regression
+Using linear regression to provide a visual summary of our findings- we found that there is a linear relationship between the overall rate of attendance and student performance, measured by the Freshman On-Track score (FOT). As expected, the FOT rose along with the Attendance Rate- up to a point.
+
+There were several outliers and the correlation between the dependent variable (FOT) and the independent variable (Attendance) in this model appears to weaken past a certain percentage. So Attendance appears to be a driver for FOT up to a certain point. The reason for this change in correlation may be due to several known or unknown factors, but there are also concerns that inconsistency in the raw data may have had some effect on the findings as well. 
+
+We also found that not all schools participated or provided student FOT data. Also, there were a number of schools that were not open at either the begining or the end of the observation period. As such, this limited the number of schools that had consistent data available for the entire observation period.
+
+The overall results however, appear to support the findings of the UIC study- school attendance has a positive correlation to student performance. As the attendance rate increases, so to does the performance, measured by the Freshman On-Track score. The relationship appears to be stronger and more pronounced where the attendance rate nears 90%. Above the 90% range, we begin to see more outliers and exceptions  and the corelation appears to weaken.
+
+In addition, it may be likely that linear regression might not be the best analytical tool for analyizing this particular collection of data. After a certain point, a non-linear technique may be more appropriate for determining the relationship. 
 
 ## Limitations 
 * Aggregate data 

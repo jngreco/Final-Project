@@ -30,13 +30,13 @@ After a brief discussion, we set out to answer the question: is FOT really the m
 ## Findings 
 ### Logistic Regression Model
 #### Model Accuracy 
-Mean Absolute Error (MAE): 8.281
-Mean Squared Error (MSE): 103.251
-Root Mean Squared Error (RMSE): 10.161
-R-squared: 0.292 Adjusted 
-R-squared: 0.255
-Cross validation scores: [ 0.021, 0.133, -1.101, 0.338, 0.118] 
-Mean cross validation score: -0.098
+* Mean Absolute Error (MAE): 8.281
+* Mean Squared Error (MSE): 103.251
+* Root Mean Squared Error (RMSE): 10.161
+* R-squared: 0.292 Adjusted 
+* R-squared: 0.255
+* Cross validation scores: [ 0.021, 0.133, -1.101, 0.338, 0.118] 
+* Mean cross validation score: -0.098
 
 ### PCA and Clustering 
 

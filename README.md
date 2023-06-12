@@ -49,13 +49,14 @@ In addition, it may be likely that linear regression might not be the best analy
 * Tracking cohorts across grades 
 * MESSY, messy data! 
 * Unreplicated studies 
-* only used data from 2015-2019 due to a change in how FOT status was calculated pre-2015. Post-2019 data excluded due to pandemic. 
-
-## Future Direcions 
-### Issues with data
+* Only used data from 2015-2019 due to a change in how FOT status was calculated pre-2015. Post-2019 data excluded due to pandemic. 
 * Current data only shows information by school instead of by student
   * This is to avoid tracking specific students i.e. Male student of Hispanic descent transferred from (low-pop.) school A to (low-pop.) school B 
 * How can we anonymize student data?
+
+This project drew from publicly available data provided by Chicago Public Schools and the State of Illinois. While there was an abundance of public data about overall test scores and attendance, we found that some of the information was obscured or was intentially left qpaque to ensure student anonymity, and in some cases to provide some form of cover for lower performing schools. We also found that school closures and openings throughout the observation period, along with several exceptions to grade level and program size, very likely skewed the results and did not offer many viable options for detection and correction for these outliers. 
+
+## Future Direcions 
 ### Anonymizing student data
 * Publish data from large population schools where a reasonable degree of anonymity can be established within the student body
 * Publish data after a certain period of time following graduation (ex. 5-10 years past)
@@ -65,13 +66,13 @@ Having individualized data will allow us to track progress by student instead of
 Finding these students before their freshman year has the potential to set them on track before it is already too late.
 
 
-### Sources, Spreadsheets, References 
-#### Normalized Data 
+## Sources, Spreadsheets, References 
+### Normalized Data 
 * [Freshman On Track](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_fot_schoollevel_2022-1.csv) 
 * [Graduation and Dropouts](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_cohortgraduationdropoutadjusted_schoollevel_2011to2019+(1).csv) 
 * [College Enrollment and Persistence](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_collenrollpersist_schoollevel_20222_CLEAN_3.csv) 
 
-#### Sources 
+### Sources 
 * [Chicago Public Schools Distric Data Metrics](https://www.cps.edu/about/district-data/metrics/)
 * [Chicago Public Schools Assessment Reports](https://www.cps.edu/about/district-data/metrics/assessment-reports/) 
 * [Data Insights (To&Through, UChicago)](https://toandthrough.uchicago.edu/sites/default/files/uploads/documents/Data%20Insights%202020%20v5_0.pdf)

@@ -33,6 +33,16 @@ After a brief discussion, we set out to answer the question: is FOT really the m
 ### PCA and Clustering 
 
 ### Linear Regression
+ Using linear regression to provide a visual summary of our findings- we found that there is a linear relationship between the overall rate of attendance and student performance, measured by the Freshman On-Track score (FOT). As expected, the FOT rose along with the Attendance Rate- up to a point. 
+
+There were several outliers and the correlation between the dependent variable (FOT) and the independent variable (Attendance) in this model appears to weaken past a certain percentage. So Attendance appears to be a driver for FOT up to a certain point. The reason for this change in correlation may be due to several known or unknown factors, but there are also concerns that inconsistency in the raw data may have had some effect on the findings as well. 
+
+We also found that not all schools participated or provided student FOT data. Also, there were a number of schools that were not open at either the begining or the end of the observation period. As such, this limited the number of schools that had consistent data available for the entire observation period. 
+
+The overall results however, appear to support our initial hypothesis- school attendance has a positive correlation to student performance. As the attendance rate increases, so to does the performance, measured by the Freshman On-Track score. The relationship appears to be stronger and more pronounced where the attendance rate nears 90%. Above the 90% range, we begin to see more outliers and exceptions  and the corelation appears to weaken. 
+
+In addition, it may be likely that linear regression might not be the best analytical tool for analyizing this particular collection of data. After a certain point, a non-linear technique may be more appropriate for determining the relationship. 
+
 
 ## Limitations 
 * Aggregate data 
@@ -41,6 +51,9 @@ After a brief discussion, we set out to answer the question: is FOT really the m
 * MESSY, messy data! 
 * Unreplicated studies that do not appear to be peer reveiwed to an adequate degree
 * only used data from 2015-2019 due to a change in how FOT status was calculated pre-2015. Post-2019 data excluded due to pandemic. 
+
+This project drew from publicly available data provided by Chicago Public Schools and the State of Illinois. While there was an abundance of public data about overall test scores and attendance, we found that some of the information was obscured or was intentially left qpaque to ensure student anonymity, and in some cases to provide some form of cover for lower performing schools. We also found that school closures and openings throughout the observation period, along with several exceptions to grade level and program size, very likely skewed the results and did not offer many viable options for detection and correction for these outliers. 
+
 
 ## Future Direcions 
 ### Issues with data

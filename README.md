@@ -39,6 +39,9 @@ After a brief discussion, we set out to answer the question: is FOT really the m
 * Mean cross validation score: -0.098
 
 ### PCA and Clustering 
+We attempted to use PCA as a method for validating the findings from University of Chicago. To do this, we carried out a principal component analysis to find the strongest contributers to any clusters that might arise from our dataset. First performing a k-means and elbow analysis, we find an optimum number k=3 for our clusters. Looking specifically at the cohort of incoming freshmen in 2015 and the respective college persistence rates after 2019, we see our clusters are split fairly cleanly along the lines of high enrollment/high persistence, middle enrollment/middle persistence, and low enrollment/low persistence. There are, however, some outliers in the middle group that also have high persistence levels.
+
+Our next step was to run PCA in Python to find out the main contributing components to these clusters for comparison against the University of Chicago's claims. Breaking our data down into 3 components, we obtain an explained_variance_ratio of 0.8980461428307921. We then set a cutoff value of 0.25 to display only the highest contributors from pca.components_. What we find is that the top contributors are simply the On-Track Rate for 2015-2019, as predicted.
 
 ### Linear Regression
 Using linear regression to provide a visual summary of our findings- we found that there is a linear relationship between the overall rate of attendance and student performance, measured by the Freshman On-Track score (FOT). As expected, the FOT rose along with the Attendance Rate- up to a point.

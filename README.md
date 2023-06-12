@@ -62,7 +62,7 @@ In addition, it may be likely that linear regression might not be the best analy
   * This is to avoid tracking specific students i.e. Male student of Hispanic descent transferred from (low-pop.) school A to (low-pop.) school B 
 * How can we anonymize student data?
 
-This project drew from publicly available data provided by Chicago Public Schools and the State of Illinois. While there was an abundance of public data about overall test scores and attendance, we found that some of the information was obscured or was intentially left qpaque to ensure student anonymity, and in some cases to provide some form of cover for lower performing schools. We also found that school closures and openings throughout the observation period, along with several exceptions to grade level and program size, very likely skewed the results and did not offer many viable options for detection and correction for these outliers. 
+This project drew from publicly available data provided by Chicago Public Schools and the State of Illinois. While there was an abundance of public data about overall test scores and attendance, we found that some of the information was obscured or was intentially left opaque to ensure student anonymity, and in some cases to provide some form of cover for lower performing schools. We also found that school closures and openings throughout the observation period, along with several exceptions to grade level and program size, very likely skewed the results and did not offer many viable options for detection and correction for these outliers. 
 
 ## Future Direcions 
 ### Anonymizing student data

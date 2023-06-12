@@ -39,7 +39,7 @@ After a brief discussion, we set out to answer the question: is FOT really the m
 * Time constraints 
 * Tracking cohorts across grades 
 * MESSY, messy data! 
-* Unreplicated studies that do not appear to be peer reveiwed to an adequate degree
+* Unreplicated studies 
 * only used data from 2015-2019 due to a change in how FOT status was calculated pre-2015. Post-2019 data excluded due to pandemic. 
 
 ## Future Direcions 

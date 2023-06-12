@@ -16,7 +16,6 @@ At face value, these findings presented an interesting research opportunity;
 initially, we set out to build a predictive model that could examine an 8th grade cohort's RIT test scores. We then planned to train this model to predict whether or not the results of these scores could be used to predict with at least 80% accuracy whether or not these cohorts would go on to be "OnTrack" as they entered their freshman year of high school. However, as we began developing our models and digging deeper into our collected data, we uncovered several issues:
   1. There is no reliable way to track any given cohort from 8th to 9th grade with the data we have access to, 
   2. Mobility of students before and during middle and high school years makes it difficult to determine with any certainty whihc cohorts contain transfer students and how this may impact the accuracy of our model
-  3. ?
 
 ### Changing Directions 
 Our first and perhaps most insurmountable issue, given the time constraints under which we were opperating, was finding a reliable way to track the 8th grade cohorts into their 9th grade year. 
@@ -41,7 +40,7 @@ uhhhhh
 
 ## Future Direcions 
 
-### Sources, Spreadsheets, and Shit 
+### Sources, Spreadsheets, References 
 #### Normalized Data 
 * [Freshman On Track](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_fot_schoollevel_2022-1.csv) 
 * [Graduation and Dropouts](https://cps-final-project-bucket.s3.us-east-2.amazonaws.com/metrics_cohortgraduationdropoutadjusted_schoollevel_2011to2019+(1).csv) 
